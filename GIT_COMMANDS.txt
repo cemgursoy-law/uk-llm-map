@@ -1,0 +1,26 @@
+# Git komutları - GitHub'a Push etmek için
+# Git commands to push to GitHub
+
+## 1. Git'i başlatın (İlk kez ise)
+git init
+
+## 2. Tüm dosyaları ekleyin
+git add .
+
+## 3. İlk commit yapın
+git commit -m "Initial map upload - UK LLM Map with 72 universities"
+
+## 4. Eğer henüz origin remote eklenmemişse, şu komutu çalıştırın:
+# Aşağıdaki [USERNAME] ve [REPO] yerine kendi değerlerinizi yazın
+git remote add origin https://github.com/[USERNAME]/uk-llm-map.git
+
+## 5. Ana dal adını main olarak ayarlayın
+git branch -M main
+
+## 6. GitHub'a push edin
+git push -u origin main
+
+# Daha sonraki güncellemeler için:
+# git add .
+# git commit -m "Açıklama"
+# git push
