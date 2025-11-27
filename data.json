@@ -23,7 +23,7 @@
         "lon": -2.7844,
         "city": "Lancaster",
         "website": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/law-llm/2025/",
-        "law_masters_summary": "Lancaster Üniversitesi, geniş bir yelpazede uzmanlık sunar: **Diplomasi ve Uluslararası Hukuk, Çevre Hukuku, Uluslararası Ticaret ve Şirketler Hukuku, İnsan Hakları Hukuku** ve Genel Hukuk LLM'leri mevcuttur. Tüm programların ücreti **£24,830**'dur.",
+        "law_masters_summary": "Lancaster Üniversitesi, geniş bir yelpazede uzmanlık sunar: **Diplomasi ve Uluslararası Hukuk, Çevre Hukuku, Uluslararası Ticaret ve Şirketler Hukuku, İnsan Hakları Hukuku** ve Genel Hukuk LLM'leri mevcuttur. Tüm programların ücreti **£25,320**'dur.",
         "logo_url": "images/lancaster.png"
     },
     {
@@ -32,7 +32,7 @@
         "lon": -0.1166,
         "city": "London",
         "website": "https://www.kcl.ac.uk",
-        "law_masters_summary": "King's College London Hukuk Yüksek Lisansı, dünyanın en popüler ve prestijli LL.M. programlarından biridir.",
+        "law_masters_summary": "King's College London Hukuk Yüksek Lisansı, dünyanın en popüler ve prestijli LL.M. programlarından biridir. 2026/27 yılı ücreti: **£38,300**.",
         "logo_url": "images/kings_college.png"
     },
     {
@@ -49,8 +49,8 @@
         "lat": 51.5234,
         "lon": -0.0457,
         "city": "London",
-        "website": "https://www.qmul.ac.uk",
-        "law_masters_summary": "Özellikle Ticaret Hukuku, Uluslararası Finans Hukuku ve Fikri Mülkiyet alanlarında uzmanlaşan QMUL, Londra'daki en büyük LL.M. programlarından birine sahiptir.",
+        "website": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/laws-llm/",
+        "law_masters_summary": "QMUL, Bankacılık ve Finans Hukuku, Ticaret ve Şirketler Hukuku, Çevre ve İklim Hukuku, Sigorta Hukuku, Fikri Mülkiyet ve Uluslararası Vergi Hukuku dahil olmak üzere çok geniş bir LLM uzmanlık yelpazesi sunar. Tüm programların ücreti **£33,000**'dir.",
         "logo_url": "images/qmul.png"
     },
     {
@@ -59,7 +59,7 @@
         "lon": -1.5572,
         "city": "Coventry",
         "website": "https://warwick.ac.uk/study/postgraduate/courses/llm-international-commercial-law",
-        "law_masters_summary": "International Commercial Law (LLM) programı, küresel ticaret ve şirketler hukuku üzerine odaklanmıştır. Yıllık Ücret: £23,910.",
+        "law_masters_summary": "International Commercial Law (LLM) programı, küresel ticaret ve şirketler hukuku üzerine odaklanmıştır. 2026/27 yılı ücreti: **£25,340**.",
         "logo_url": "images/warwick.png"
     },
     {
@@ -68,7 +68,7 @@
         "lon": -4.2882,
         "city": "Glasgow",
         "website": "https://www.gla.ac.uk/postgraduate/taught/law/",
-        "law_masters_summary": "Glasgow Üniversitesi Hukuk Fakültesi, çok çeşitli uzmanlık alanları sunar. Programların çoğunun Yıllık Ücreti: £28,500'dur.",
+        "law_masters_summary": "Glasgow Üniversitesi Hukuk Fakültesi, çok çeşitli uzmanlık alanları sunar. 2026/27 yılı ücreti: **£29,355**.",
         "logo_url": "images/glasgow.png"
     },
     {
@@ -77,7 +77,7 @@
         "lon": -2.1005,
         "city": "Aberdeen",
         "website": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/97/general-law/",
-        "law_masters_summary": "Aberdeen Üniversitesi geniş bir LLM yelpazesi sunar: **Ceza Adaleti, Uluslararası ve Mukayeseli Hukuk, Doğal Kaynaklar, Petrol ve Gaz Hukuku** gibi alanlarda uzmandır. Çoğu programın ücreti **£23,000**'dur, Corporate Finance and Law ise **£26,250**'dur.",
+        "law_masters_summary": "Aberdeen Üniversitesi geniş bir LLM yelpazesi sunar: **Ceza Adaleti, Uluslararası ve Mukayeseli Hukuk, Doğal Kaynaklar, Petrol ve Gaz Hukuku** gibi alanlarda uzmandır. 2026/27 yılı ücreti: **£23,000**.",
         "logo_url": "images/aberdeen.png"
     },
     {
@@ -86,7 +86,7 @@
         "lon": -2.6006,
         "city": "Bristol",
         "website": "https://www.bristol.ac.uk/study/postgraduate/taught/llm-law---general-legal-studies/",
-        "law_masters_summary": "Bristol Üniversitesi, **Bankacılık ve Finans Hukuku, Uluslararası Ticaret Hukuku, Şirketler Hukuku, İnsan Hakları Hukuku, İnovasyon ve Teknoloji** dahil olmak üzere çok çeşitli LLM uzmanlıkları sunmaktadır. Tüm LLM programlarının ücreti **£28,600**'dur.",
+        "law_masters_summary": "Bristol Üniversitesi, **Bankacılık ve Finans Hukuku, Uluslararası Ticaret Hukuku, Şirketler Hukuku, İnsan Hakları Hukuku, İnovasyon ve Teknoloji** dahil olmak üzere çok çeşitli LLM uzmanlıkları sunmaktadır. 2026/27 yılı ücreti: **£29,400**.",
         "logo_url": "images/bristol.png"
     },
     {
@@ -95,7 +95,7 @@
         "lon": -1.3959,
         "city": "Southampton",
         "website": "https://www.southampton.ac.uk/courses/laws-masters-llm",
-        "law_masters_summary": "Southampton Üniversitesi, özellikle **Denizcilik Hukuku (Maritime Law)**, Uluslararası Ticaret ve Şirketler Hukuku ile İnsan Hakları Hukuku alanlarında güçlü LLM programları sunar. Program ücretleri **£24,200** ile **£25,400** arasında değişmektedir.",
+        "law_masters_summary": "Southampton Üniversitesi, özellikle **Denizcilik Hukuku (Maritime Law)**, Uluslararası Ticaret ve Şirketler Hukuku ile İnsan Hakları Hukuku alanlarında güçlü LLM programları sunar. 2026/27 yılı ücreti: **£26,200**.",
         "logo_url": "images/southampton.png"
     },
     {
@@ -104,7 +104,7 @@
         "lon": -3.3101,
         "city": "Cardiff",
         "website": "https://www.southwales.ac.uk/courses/llm-laws/",
-        "law_masters_summary": "University of South Wales, Genel Hukuk (Laws) ve Uluslararası Ticaret Hukuku (International Commercial Law) alanlarında LLM programları sunar. Bu programların ücreti **£16,900**'dur. Hukuk, Teknoloji ve İnovasyon LLM programının ücreti ise henüz **açıklanmamıştır** (TBC).",
+        "law_masters_summary": "University of South Wales, Genel Hukuk (Laws) ve Uluslararası Ticaret Hukuku (International Commercial Law) alanlarında LLM programları sunar. 2026/27 yılı ücreti: **£16,900**.",
         "logo_url": "images/south_wales.png"
     },
     {
@@ -113,7 +113,7 @@
         "lon": -1.0560,
         "city": "York",
         "website": "https://www.york.ac.uk/study/postgraduate-taught/courses/llm-law/",
-        "law_masters_summary": "York Üniversitesi, **Uluslararası Ticaret Hukuku, Uluslararası Kurumsal ve Ticaret Hukuku, İnsan Hakları Hukuku** gibi alanlarda LLM programları sunar. Program ücretleri çoğunlukla **£25,900**'dur; ancak **Sanat Hukuku (Art Law) LLM** programı **£28,500**'dur.",
+        "law_masters_summary": "York Üniversitesi, **Uluslararası Ticaret Hukuku, Uluslararası Kurumsal ve Ticaret Hukuku, İnsan Hakları Hukuku** gibi alanlarda LLM programları sunar. 2026/27 yılı ücreti: **£27,250**.",
         "logo_url": "images/york.png"
     },
     {
@@ -122,7 +122,7 @@
         "lon": -1.2117,
         "city": "Leicester",
         "website": "https://le.ac.uk/courses/law-llm/2025",
-        "law_masters_summary": "Leicester Üniversitesi, **Sağlık Hukuku, Uluslararası Hukuk, Uluslararası Ticaret Hukuku, Uluslararası İnsan Hakları Hukuku** ve **Uluslararası Ticaret ve Şirketler Hukuku** gibi çeşitli alanlarda LLM programları sunmaktadır. Tüm programların ücreti **£18,950**'dur.",
+        "law_masters_summary": "Leicester Üniversitesi, **Sağlık Hukuku, Uluslararası Hukuk, Uluslararası Ticaret Hukuku, Uluslararası İnsan Hakları Hukuku** ve **Uluslararası Ticaret ve Şirketler Hukuku** gibi çeşitli alanlarda LLM programları sunmaktadır. 2026/27 yılı ücreti: **£19,400**.",
         "logo_url": "images/leicester.png"
     },
     {
@@ -131,7 +131,7 @@
         "lon": -1.4701,
         "city": "Sheffield",
         "website": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/llm-sheffield-llm-llm",
-        "law_masters_summary": "Sheffield Üniversitesi, **Şirketler ve Ticaret Hukuku (Corporate and Commercial Law)** ve **Uluslararası Hukuk ve Küresel Adalet (International Law and Global Justice)** dahil olmak üzere çeşitli LLM uzmanlıkları sunar. Tüm LLM programlarının ücreti **£24,950**'dur.",
+        "law_masters_summary": "Sheffield Üniversitesi, **Şirketler ve Ticaret Hukuku (Corporate and Commercial Law)** ve **Uluslararası Hukuk ve Küresel Adalet (International Law and Global Justice)** dahil olmak üzere çeşitli LLM uzmanlıkları sunar. 2026/27 yılı ücreti: **£26,320**.",
         "logo_url": "images/sheffield.png"
     },
     {
@@ -140,7 +140,7 @@
         "lon": -2.2346,
         "city": "Manchester",
         "website": "https://www.manchester.ac.uk/study/masters/courses/list/08446/llm-law/",
-        "law_masters_summary": "Manchester Üniversitesi, **Uluslararası Finans Hukuku, Uluslararası Ticaret Hukuku, Kamu Uluslararası Hukuku, Sınır Ötesi Uyuşmazlık Çözümü** ve **Kurumsal Yönetim** gibi çeşitli LLM uzmanlıkları sunar. Tüm programların ücreti **£29,500**'dur.",
+        "law_masters_summary": "Manchester Üniversitesi, **Uluslararası Finans Hukuku, Uluslararası Ticaret Hukuku, Kamu Uluslararası Hukuku, Sınır Ötesi Uyuşmazlık Çözümü** ve **Kurumsal Yönetim** gibi çeşitli LLM uzmanlıkları sunar. 2026/27 yılı ücreti: **£31,000**.",
         "logo_url": "images/manchester.png"
     },
     {
@@ -149,7 +149,7 @@
         "lon": -2.9739,
         "city": "Dundee",
         "website": "https://www.dundee.ac.uk/postgraduate/law-general",
-        "law_masters_summary": "Dundee Üniversitesi, özellikle **Uluslararası Enerji Hukuku ve Politikası (International Energy Law and Policy)**, Çevre Hukuku ve Ticaret Hukuku (Corporate & Commercial Law) alanlarında güçlü LLM programları sunar. Tüm programların ücreti **£23,000**'dur.",
+        "law_masters_summary": "Dundee Üniversitesi, özellikle **Uluslararası Enerji Hukuku ve Politikası (International Energy Law and Policy)**, Çevre Hukuku ve Ticaret Hukuku (Corporate & Commercial Law) alanlarında güçlü LLM programları sunar. 2026/27 yılı ücreti: **£15,700**.",
         "logo_url": "images/dundee.png"
     },
     {
@@ -158,7 +158,7 @@
         "lon": -1.6178,
         "city": "Newcastle",
         "website": "https://www.northumbria.ac.uk/study-at-northumbria/courses/master-of-laws-law-space-law-dtflsl6/",
-        "law_masters_summary": "Northumbria Üniversitesi, özellikle **Uzay Hukuku (Space Law)**, **Siber Hukuk (Cyber Law)** ve **Uluslararası Ticaret Hukuku** gibi çağdaş alanlarda uzmanlaşmıştır. Tüm LLM programlarının ücreti **£19,350**'dur.",
+        "law_masters_summary": "Northumbria Üniversitesi, özellikle **Uzay Hukuku (Space Law)**, **Siber Hukuk (Cyber Law)** ve **Uluslararası Ticaret Hukuku** gibi çağdaş alanlarda uzmanlaşmıştır. 2026/27 yılı ücreti: **£19,850**.",
         "logo_url": "images/northumbria.png"
     },
     {
@@ -167,7 +167,7 @@
         "lon": -4.2423,
         "city": "Glasgow",
         "website": "https://www.strath.ac.uk/courses/postgraduatetaught/constructionlaw/",
-        "law_masters_summary": "Strathclyde Üniversitesi, **İnşaat Hukuku, Arabuluculuk, İnsan Hakları Hukuku, Hukuk, Teknoloji ve İnovasyon** gibi uzmanlıklar sunar. Çoğu programın ücreti **£25,000** iken, Uluslararası Ticaret Hukuku LLM programı **£21,700**'dür.",
+        "law_masters_summary": "Strathclyde Üniversitesi, **İnşaat Hukuku, Arabuluculuk, İnsan Hakları Hukuku, Hukuk, Teknoloji ve İnovasyon** gibi uzmanlıklar sunar. 2026/27 yılı ücreti: **£25,000**.",
         "logo_url": "images/strathclyde.png"
     },
     {
@@ -176,7 +176,7 @@
         "lon": -1.1873,
         "city": "Nottingham",
         "website": "https://www.nottingham.ac.uk/pgstudy/course/taught/master-of-laws-llm",
-        "law_masters_summary": "Nottingham, İnsan Hakları Hukuku, Uluslararası Ticaret Hukuku, Uluslararası Hukuk ve Teknoloji/Fikri Mülkiyet Hukuku alanlarında LLM sunar. Tüm programların ücreti **£24,300**'dür.",
+        "law_masters_summary": "Nottingham, İnsan Hakları Hukuku, Uluslararası Ticaret Hukuku, Uluslararası Hukuk ve Teknoloji/Fikri Mülkiyet Hukuku alanlarında LLM sunar. 2026/27 yılı ücreti: **£25,750**.",
         "logo_url": "images/nottingham.png"
     },
     {
@@ -185,7 +185,7 @@
         "lon": -3.5350,
         "city": "Exeter",
         "website": "https://www.exeter.ac.uk/study/postgraduate/courses/law/masteroflaws/",
-        "law_masters_summary": "Exeter, Uluslararası Ticaret Hukuku, Genel Ticaret Hukuku, Uluslararası Hukuk ve Hukuk ve İşletme (Law and Business) LLM'leri sunar. Tüm programların ücreti **£25,300**'dür.",
+        "law_masters_summary": "Exeter, Uluslararası Ticaret Hukuku, Genel Ticaret Hukuku, Uluslararası Hukuk ve Hukuk ve İşletme (Law and Business) LLM'leri sunar. 2026/27 yılı ücreti: **£25,550**.",
         "logo_url": "images/exeter.png"
     },
     {
@@ -194,7 +194,7 @@
         "lon": 0.9634,
         "city": "Colchester",
         "website": "https://www.essex.ac.uk/courses/PG01386/1/LLM-International-Law",
-        "law_masters_summary": "Essex, özellikle Uluslararası İnsan Hakları ve İnsancıl Hukuk, Uluslararası Ticaret Hukuku ve Deniz Hukuku (Maritime Law) alanlarında güçlüdür. Uluslararası Hukuk LLM **£21,700** iken, diğer LLM'ler çoğunlukla **£22,750**'dur.",
+        "law_masters_summary": "Essex, özellikle Uluslararası İnsan Hakları ve İnsancıl Hukuk, Uluslararası Ticaret Hukuku ve Deniz Hukuku (Maritime Law) alanlarında güçlüdür. 2026/27 yılı ücreti: **£22,750**.",
         "logo_url": "images/essex.png"
     },
     {
@@ -203,7 +203,7 @@
         "lon": 1.0697,
         "city": "Canterbury",
         "website": "https://www.kent.ac.uk/courses/postgraduate/327/law",
-        "law_masters_summary": "Kent, Ceza Adaleti, İnsan Hakları, Fikri Mülkiyet, Uluslararası Ticaret ve Çevre Hukuku dahil olmak üzere geniş bir yelpazede LLM sunar. Tüm LLM programlarının ücreti **£20,700**'dür.",
+        "law_masters_summary": "Kent, Ceza Adaleti, İnsan Hakları, Fikri Mülkiyet, Uluslararası Ticaret ve Çevre Hukuku dahil olmak üzere geniş bir yelpazede LLM sunar. 2026/27 yılı ücreti: **£20,700**.",
         "logo_url": "images/kent.png"
     },
     {
@@ -212,7 +212,7 @@
         "lon": -2.9657,
         "city": "Liverpool",
         "website": "https://www.liverpool.ac.uk/courses/2025/law-general-llm",
-        "law_masters_summary": "Liverpool, Uluslararası Ticaret Hukuku, İnsan Hakları Hukuku ve Hukuk, Tıp ve Sağlık (Law, Medicine and Healthcare) gibi alanlarda uzmanlaşır. Tüm LLM programlarının ücreti **£24,100**'dür.",
+        "law_masters_summary": "Liverpool, Uluslararası Ticaret Hukuku, İnsan Hakları Hukuku ve Hukuk, Tıp ve Sağlık (Law, Medicine and Healthcare) gibi alanlarda uzmanlaşır. 2026/27 yılı ücreti: **£28,000**.",
         "logo_url": "images/liverpool.png"
     },
     {
@@ -221,7 +221,7 @@
         "lon": -1.9304,
         "city": "Birmingham",
         "website": "https://www.birmingham.ac.uk/study/postgraduate/subjects/law-courses/general-law-llm",
-        "law_masters_summary": "Birmingham, Ticaret, Bankacılık ve Finans Hukuku, Fikri Mülkiyet, İnsan Hakları ve Uluslararası Anlaşmazlıklar Hukuku dahil olmak üzere çok kapsamlı bir LLM listesi sunar. Tüm LLM programlarının ücreti **£27,200**'dür.",
+        "law_masters_summary": "Birmingham, Ticaret, Bankacılık ve Finans Hukuku, Fikri Mülkiyet, İnsan Hakları ve Uluslararası Anlaşmazlıklar Hukuku dahil olmak üzere çok kapsamlı bir LLM listesi sunar. 2026/27 yılı ücreti: **£28,080**.",
         "logo_url": "images/birmingham.png"
     },
     {
@@ -230,7 +230,7 @@
         "lon": -1.6190,
         "city": "Newcastle",
         "website": "https://www.ncl.ac.uk/postgraduate/degrees/5862f/",
-        "law_masters_summary": "Newcastle, Uluslararası Hukuk ve Küresel Zorluklar, Uluslararası Ticaret Hukuku ve Gelişen Teknolojiler ve Hukuk (Emerging Technologies and the Law) gibi alanlara odaklanır. Tüm LLM programlarının ücreti **£25,100**'dür.",
+        "law_masters_summary": "Newcastle, Uluslararası Hukuk ve Küresel Zorluklar, Uluslararası Ticaret Hukuku ve Gelişen Teknolojiler ve Hukuk (Emerging Technologies and the Law) gibi alanlara odaklanır. 2026/27 yılı ücreti: **£25,900**.",
         "logo_url": "images/newcastle.png"
     },
     {
@@ -239,7 +239,7 @@
         "lon": -3.1834,
         "city": "Cardiff",
         "website": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/law-llm",
-        "law_masters_summary": "Cardiff, Uluslararası Ticaret Hukuku ve Fikri Mülkiyet Hukuku gibi alanlarda uzmanlaşmıştır. Tüm LLM programlarının ücreti **£23,700**'dür.",
+        "law_masters_summary": "Cardiff, Uluslararası Ticaret Hukuku ve Fikri Mülkiyet Hukuku gibi alanlarda uzmanlaşmıştır. 2026/27 yılı ücreti: **£24,700**.",
         "logo_url": "images/cardiff.png"
     },
     {
@@ -248,7 +248,7 @@
         "lon": -1.8797,
         "city": "Bournemouth",
         "website": "https://www.bournemouth.ac.uk/study/courses/llm-international-commercial-law",
-        "law_masters_summary": "Bournemouth, Fikri Mülkiyet, Kamu Uluslararası Hukuku, Uluslararası Ticaret Hukuku ve Uluslararası Vergi Hukuku gibi programlar sunar. LLM ücretleri **£16,750** ile **£19,000** arasında değişmektedir.",
+        "law_masters_summary": "Bournemouth, Fikri Mülkiyet, Kamu Uluslararası Hukuku, Uluslararası Ticaret Hukuku ve Uluslararası Vergi Hukuku gibi programlar sunar. 2026/27 yılı ücreti: **£19,950**.",
         "logo_url": "images/bournemouth.png"
     },
     {
@@ -257,7 +257,7 @@
         "lon": -0.3235,
         "city": "London (Ealing)",
         "website": "https://www.uwl.ac.uk/course/postgraduate/international-banking-and-finance-law",
-        "law_masters_summary": "UWL, Uluslararası Bankacılık ve Finans Hukuku, Uluslararası Ticaret Hukuku ve Fikri Mülkiyet Hukuku alanlarında yoğunlaşır. Tüm LLM programlarının ücreti **£17,250**'dür.",
+        "law_masters_summary": "UWL, Uluslararası Bankacılık ve Finans Hukuku, Uluslararası Ticaret Hukuku ve Fikri Mülkiyet Hukuku alanlarında yoğunlaşır. 2026/27 yılı ücreti: **£17,250**.",
         "logo_url": "images/uwl.png"
     },
     {
@@ -266,7 +266,7 @@
         "lon": -3.9740,
         "city": "Swansea",
         "website": "https://www.swansea.ac.uk/postgraduate/taught/law/llm-international-maritime-law/",
-        "law_masters_summary": "Swansea, özellikle **Uluslararası Deniz Hukuku (Maritime Law)**, Petrol, Gaz ve Yenilenebilir Enerji Hukuku, Ticaret Hukuku ve İnsan Hakları alanlarında güçlüdür. Program ücretleri **£19,850** ile **£20,150** arasında değişmektedir.",
+        "law_masters_summary": "Swansea, özellikle **Uluslararası Deniz Hukuku (Maritime Law)**, Petrol, Gaz ve Yenilenebilir Enerji Hukuku, Ticaret Hukuku ve İnsan Hakları alanlarında güçlüdür. 2026/27 yılı ücreti: **£21,150**.",
         "logo_url": "images/swansea.png"
     },
     {
@@ -275,7 +275,7 @@
         "lon": -3.9189,
         "city": "Stirling",
         "website": "https://www.stir.ac.uk/courses/pg-taught/international-environmental-law/",
-        "law_masters_summary": "Stirling, **Uluslararası Çevre Hukuku ve İklim Adaleti (Environmental Law and Climate Justice)** alanında LLM sunar. Program ücreti **£22,900**'dür.",
+        "law_masters_summary": "Stirling, **Uluslararası Çevre Hukuku ve İklim Adaleti (Environmental Law and Climate Justice)** alanında LLM sunar. 2026/27 yılı ücreti: **£24,300**.",
         "logo_url": "images/stirling.png"
     },
     {
@@ -284,7 +284,7 @@
         "lon": -0.0898,
         "city": "Brighton",
         "website": "https://www.sussex.ac.uk/study/masters/courses/law-llm",
-        "law_masters_summary": "Sussex, Uluslararası Hukuk, Uluslararası Finans Hukuku, Ticaret Hukuku, Bilişim Teknolojileri ve Fikri Mülkiyet Hukuku alanlarına odaklanır. Tüm LLM programlarının ücreti **£22,575**'tir.",
+        "law_masters_summary": "Sussex, Uluslararası Hukuk, Uluslararası Finans Hukuku, Ticaret Hukuku, Bilişim Teknolojileri ve Fikri Mülkiyet Hukuku alanlarına odaklanır. 2026/27 yılı ücreti: **£23,500**.",
         "logo_url": "images/sussex.png"
     },
     {
@@ -293,7 +293,7 @@
         "lon": -2.8988,
         "city": "Chester",
         "website": "https://www.chester.ac.uk/study/course-search/law-llm/",
-        "law_masters_summary": "Chester, Genel Hukuk ve Uluslararası İşletme ve Ticaret Hukuku (International Business and Commercial Law) LLM'leri sunar. Her iki programın ücreti de **£15,000**'dir. (UK'deki en uygun fiyatlı programlardan bazılarıdır.)",
+        "law_masters_summary": "Chester, Genel Hukuk ve Uluslararası İşletme ve Ticaret Hukuku (International Business and Commercial Law) LLM'leri sunar. 2026/27 yılı ücreti: **£15,500**.",
         "logo_url": "images/chester.png"
     },
     {
@@ -302,7 +302,7 @@
         "lon": -0.9575,
         "city": "Reading",
         "website": "https://www.reading.ac.uk/ready-to-study/study/subject-area/law-pg/llm-international-law",
-        "law_masters_summary": "Reading, Uluslararası Hukuk, Uluslararası Ticaret Hukuku ve İleri Hukuk Çalışmaları (Advanced Legal Studies) sunar. Tüm LLM programlarının ücreti **£25,850**'dir.",
+        "law_masters_summary": "Reading, Uluslararası Hukuk, Uluslararası Ticaret Hukuku ve İleri Hukuk Çalışmaları (Advanced Legal Studies) sunar. 2026/27 yılı ücreti: **£26,450**.",
         "logo_url": "images/reading.png"
     },
     {
@@ -311,7 +311,7 @@
         "lon": 1.2389,
         "city": "Norwich",
         "website": "https://www.uea.ac.uk/course/postgraduate/llm-master-of-laws",
-        "law_masters_summary": "UEA, Uluslararası Ticaret Hukuku, Uluslararası Ticari Uyuşmazlık Çözümü ve Uluslararası Ticaret ve İş Hukuku alanlarına odaklanır. Programların çoğu **£21,200**'dür; Bilişim Teknolojileri ve Fikri Mülkiyet Hukuku **£22,700**'dür.",
+        "law_masters_summary": "UEA, Uluslararası Ticaret Hukuku, Uluslararası Ticari Uyuşmazlık Çözümü ve Uluslararası Ticaret ve İş Hukuku alanlarına odaklanır. 2026/27 yılı ücreti: **£22,700**.",
         "logo_url": "images/uea.png"
     },
     {
@@ -320,7 +320,7 @@
         "lon": -1.0874,
         "city": "Portsmouth",
         "website": "https://www.port.ac.uk/study/courses/postgraduate-taught/llm-law",
-        "law_masters_summary": "Portsmouth Üniversitesi Genel Hukuk LLM programı sunmaktadır. Programın ücreti **£17,900**'dür.",
+        "law_masters_summary": "Portsmouth Üniversitesi Genel Hukuk LLM programı sunmaktadır. 2026/27 yılı ücreti: **£17,900**.",
         "logo_url": "images/portsmouth.png"
     },
     {
@@ -329,7 +329,7 @@
         "lon": -0.1018,
         "city": "London (City)",
         "website": "https://www.city.ac.uk/prospective-students/courses/postgraduate/master-of-laws-llm/2025",
-        "law_masters_summary": "City, Uyuşmazlık Çözümü, Deniz Hukuku, Uluslararası İnsan Hakları, Uluslararası Ticaret Hukuku ve Teknoloji/Yapay Zeka ve Hukuki Hizmetler gibi alanlarda LLM'ler sunar. Çoğu programın ücreti **£23,110**'dur.",
+        "law_masters_summary": "City, Uyuşmazlık Çözümü, Deniz Hukuku, Uluslararası İnsan Hakları, Uluslararası Ticaret Hukuku ve Teknoloji/Yapay Zeka ve Hukuki Hizmetler gibi alanlarda LLM'ler sunar. 2026/27 yılı ücreti: **£23,570**.",
         "logo_url": "images/city_london.png"
     },
     {
@@ -338,7 +338,7 @@
         "lon": -0.3061,
         "city": "London (Kingston)",
         "website": "https://www.kingston.ac.uk/postgraduate/courses/law-llm/",
-        "law_masters_summary": "Kingston Üniversitesi, Genel Hukuk LLM programı sunmaktadır. Programın ücreti **£17,600**'dür.",
+        "law_masters_summary": "Kingston Üniversitesi, Genel Hukuk LLM programı sunmaktadır. 2026/27 yılı ücreti: **£17,600**.",
         "logo_url": "images/kingston.png"
     },
     {
@@ -347,7 +347,7 @@
         "lon": -1.5540,
         "city": "Leeds",
         "website": "https://courses.leeds.ac.uk/e461/international-business-law-llm",
-        "law_masters_summary": "Leeds, Uluslararası Ticaret Hukuku, Uluslararası Kurumsal Hukuk, Bankacılık ve Finans Hukuku, Ceza Adaleti ve İnsan Hakları Hukuku gibi geniş bir yelpazede LLM sunar. Tüm programların ücreti **£28,250**'dür.",
+        "law_masters_summary": "Leeds, Uluslararası Ticaret Hukuku, Uluslararası Kurumsal Hukuk, Bankacılık ve Finans Hukuku, Ceza Adaleti ve İnsan Hakları Hukuku gibi geniş bir yelpazede LLM sunar. 2026/27 yılı ücreti: **£28,750**.",
         "logo_url": "images/leeds.png"
     },
     {
@@ -365,7 +365,7 @@
         "lon": -1.1444,
         "city": "Nottingham",
         "website": "https://www.ntu.ac.uk/course/nottingham-law-school/pg/llm-master-of-laws",
-        "law_masters_summary": "NTU, Kurumsal Hukuk, Sağlık Hukuku, Uluslararası Ticaret Hukuku, Uluslararası Enerji Hukuku ve Spor Hukuku gibi çeşitli alanlarda LLM sunar. Tüm programların ücreti **£17,850**'dür.",
+        "law_masters_summary": "NTU, Kurumsal Hukuk, Sağlık Hukuku, Uluslararası Ticaret Hukuku, Uluslararası Enerji Hukuku ve Spor Hukuku gibi çeşitli alanlarda LLM sunar. 2026/27 yılı ücreti: **£18,300**.",
         "logo_url": "images/ntu.png"
     },
     {
@@ -383,7 +383,7 @@
         "lon": -2.2343,
         "city": "Manchester",
         "website": "https://www.mmu.ac.uk/study/postgraduate/course/llm-master-of-laws",
-        "law_masters_summary": "MMU, Genel Hukuk LLM'i **£18,500**'e ve Uluslararası Spor Hukuku ve Yönetimi (International Sports Law and Governance) LLM'i **£20,000**'e sunmaktadır.",
+        "law_masters_summary": "MMU, Genel Hukuk LLM ve Uluslararası Spor Hukuku ve Yönetimi (International Sports Law and Governance) LLM'leri sunmaktadır. 2026/27 yılı ücreti: **£21,000**.",
         "logo_url": "images/mmu.png"
     },
     {
@@ -396,12 +396,12 @@
         "logo_url": "images/plymouth.png"
     },
     {
-        "name": "St. Mary’s University Twickenham",
+        "name": "St. Mary's University Twickenham",
         "lat": 51.4468,
         "lon": -0.3470,
         "city": "London (Twickenham)",
         "website": "https://www.stmarys.ac.uk/courses/postgraduate/international-business-law",
-        "law_masters_summary": "St. Mary's, Uluslararası İş Hukuku (International Business Law) LLM programı sunmaktadır. Programın ücreti **£18,750**'dir.",
+        "law_masters_summary": "St. Mary's, Uluslararası İş Hukuku (International Business Law) LLM programı sunmaktadır. 2026/27 yılı ücreti: **£18,750**.",
         "logo_url": "images/st_marys.png"
     },
     {
@@ -410,7 +410,7 @@
         "lon": -0.2119,
         "city": "London (Hendon)",
         "website": "https://www.mdx.ac.uk/courses/postgraduate/llmpgdippgcert-commercial-law/",
-        "law_masters_summary": "Middlesex, Ticaret Hukuku, Uluslararası Hukuk ve İnsan Hakları Hukuku LLM'leri sunar. Tüm programların ücreti **£18,000**'dür.",
+        "law_masters_summary": "Middlesex, Ticaret Hukuku, Uluslararası Hukuk ve İnsan Hakları Hukuku LLM'leri sunar. 2026/27 yılı ücreti: **£18,750**.",
         "logo_url": "images/middlesex.png"
     },
     {
@@ -419,7 +419,7 @@
         "lon": -0.1423,
         "city": "London (Central)",
         "website": "https://www.westminster.ac.uk/law-courses/2025-26/september/full-time/international-law-llm",
-        "law_masters_summary": "Westminster, **Eğlence Hukuku (Entertainment Law)**, Hukuk ve Teknoloji, Kurumsal Finans Hukuku ve Uluslararası Ticaret Hukuku gibi çeşitli LLM'ler sunar. Program ücretleri çoğunlukla **£17,500**'dür, Legal Practice LLM ise **£15,500**'dür.",
+        "law_masters_summary": "Westminster, **Eğlence Hukuku (Entertainment Law)**, Hukuk ve Teknoloji, Kurumsal Finans Hukuku ve Uluslararası Ticaret Hukuku gibi çeşitli LLM'ler sunar. 2026/27 yılı ücreti: **¢16,000**.",
         "logo_url": "images/westminster.png"
     },
     {
@@ -428,7 +428,7 @@
         "lon": -1.1408,
         "city": "Leicester",
         "website": "https://www.dmu.ac.uk/study/courses/postgraduate-courses/llm-international-commercial-law-practice/llm-international-commercial-law-practice.aspx",
-        "law_masters_summary": "DMU, Ceza Adaleti, Uluslararası Ticaret Hukuku ve Uygulaması, Tıp Hukuku ve Etik gibi alanlarda LLM sunar. Tüm programların ücreti **£17,950**'dur.",
+        "law_masters_summary": "DMU, Ceza Adaleti, Uluslararası Ticaret Hukuku ve Uygulamasi, Tıp Hukuku ve Etik gibi alanlarda LLM sunar. 2026/27 yılı ücreti: **£19,000**.",
         "logo_url": "images/de_montfort.png"
     },
     {
@@ -437,7 +437,7 @@
         "lon": -0.3704,
         "city": "Hull",
         "website": "https://www.hull.ac.uk/study/postgraduate/taught/international-law-global-sustainability-and-the-law-llm",
-        "law_masters_summary": "Hull, Uluslararası Hukukta Küresel Sürdürülebilirlik ve İnsan Hakları, Çatışma ve Güvenlik alanlarına odaklanır. Program ücretleri **£14,000** ile **£16,000** arasında değişmektedir.",
+        "law_masters_summary": "Hull, Uluslararası Hukukta Küresel Sürdürülebılırlik ve İnsan Hakları, Çatışma ve Güvenlik alanlarına odaklanır. 2026/27 yılı ücreti: **£14,000**.",
         "logo_url": "images/hull.png"
     },
     {
@@ -446,7 +446,7 @@
         "lon": -1.3854,
         "city": "Sunderland",
         "website": "https://www.sunderland.ac.uk/study/law/postgraduate-law/",
-        "law_masters_summary": "Sunderland, Ticaret Hukuku, Ceza Hukuku ve Prosedürü, Uluslararası İnsan Hakları ve **Terörizm ve Siber Savaş** gibi özel alanlarda LLM sunar. Tüm programların ücreti **£17,000**'dür.",
+        "law_masters_summary": "Sunderland, Ticaret Hukuku, Ceza Hukuku ve Prosedürü, Uluslararası İnsan Hakları ve **Terörizm ve Siber Savaş** gibi özel alanlarda LLM sunar. 2026/27 yılı ücreti: **£18,000**.",
         "logo_url": "images/sunderland.png"
     },
     {
@@ -455,7 +455,7 @@
         "lon": -0.1242,
         "city": "London (SOAS)",
         "website": "https://www.soas.ac.uk/study/find-course/llm",
-        "law_masters_summary": "SOAS, **İslami Hukuk (Islamic Law)**, Çevre Hukuku, İnsan Hakları, Uluslararası Ticaret ve Ekonomik Hukuk gibi benzersiz LLM uzmanlıkları sunar. Tüm programların ücreti **£26,770**'dür.",
+        "law_masters_summary": "SOAS, **İslami Hukuk (Islamic Law)**, Çevre Hukuku, İnsan Hakları, Uluslararası Ticaret ve Ekonomik Hukuk gibi benzersiz LLM uzmanlıkları sunar. 2026/27 yılı ücreti: **£27,840**.",
         "logo_url": "images/soas.png"
     },
     {
@@ -464,7 +464,7 @@
         "lon": -1.5036,
         "city": "Coventry",
         "website": "https://www.coventry.ac.uk/course-structure/pg/fbl/law-llm/",
-        "law_masters_summary": "Coventry, Genel Hukuk ve Uluslararası Ticaret Hukuku LLM'leri sunar. 2025-2026 akademik yılı için ücretler **henüz açıklanmamıştır (TBC)**.",
+        "law_masters_summary": "Coventry, Genel Hukuk ve Uluslararası Ticaret Hukuku LLM'leri sunar. 2026/27 yılı ücreti: **£18,600**.",
         "logo_url": "images/coventry.png"
     },
     {
@@ -473,7 +473,7 @@
         "lon": 0.0076,
         "city": "London (Greenwich)",
         "website": "https://www.gre.ac.uk/postgraduate-courses/ach/international-and-commercial-law-llm",
-        "law_masters_summary": "Greenwich Üniversitesi, Uluslararası ve Ticaret Hukuku (International & Commercial Law) LLM programı sunmaktadır. Programın ücreti **£18,150**'dür.",
+        "law_masters_summary": "Greenwich Üniversitesi, Uluslararası ve Ticaret Hukuku (International & Commercial Law) LLM programı sunmaktadır. 2026/27 yılı ücreti: **£17,975**.",
         "logo_url": "images/greenwich.png"
     },
     {
@@ -482,7 +482,7 @@
         "lon": -0.1915,
         "city": "Hatfield",
         "website": "https://www.herts.ac.uk/courses/postgraduate-masters/master-of-laws-llm",
-        "law_masters_summary": "Hertfordshire, İş Hukuku, Ceza Adaleti, Fikri Mülkiyet ve Uluslararası Ticaret Hukuku ve Tahkim alanlarında LLM sunar. Tüm programların ücreti **£17,250**'dür.",
+        "law_masters_summary": "Hertfordshire, İş Hukuku, Ceza Adaleti, Fikri Mülkiyet ve Uluslararası Ticaret Hukuku ve Tahkim alanlarında LLM sunar. 2026/27 yılı ücreti: **£17,250**.",
         "logo_url": "images/hertfordshire.png"
     },
     {
@@ -491,7 +491,7 @@
         "lon": -2.2646,
         "city": "Salford (Manchester)",
         "website": "https://www.salford.ac.uk/courses/postgraduate/global-business-law-and-regulation",
-        "law_masters_summary": "Salford, Global İş Hukuku ve Düzenleme (Global Business Law and Regulation) LLM'i sunar. Programın ücreti **£16,560**'dır.",
+        "law_masters_summary": "Salford, Global İş Hukuku ve Düzenleme (Global Business Law and Regulation) LLM'i sunar. 2026/27 yılı ücreti: **£16,560**.",
         "logo_url": "images/salford.png"
     },
     {
@@ -500,7 +500,7 @@
         "lon": -4.0531,
         "city": "Aberystwyth",
         "website": "https://courses.aber.ac.uk/postgraduate/M172-law/",
-        "law_masters_summary": "Aberystwyth, İnsan Hakları ve İnsancıl Hukuk ile Uluslararası Ticaret Hukuku alanlarında LLM sunar. Tüm programların ücreti **£19,700**'dür.",
+        "law_masters_summary": "Aberystwyth, İnsan Hakları ve İnsancıl Hukuk ile Uluslararası Ticaret Hukuku alanlarında LLM sunar. 2026/27 yılı ücreti: **£19,750**.",
         "logo_url": "images/aberystwyth.png"
     },
     {
@@ -509,7 +509,7 @@
         "lon": -2.5401,
         "city": "Bristol",
         "website": "https://courses.uwe.ac.uk/M34G12/global-business-and-finance-law",
-        "law_masters_summary": "UWE Bristol, Global İşletme ve Finans Hukuku ile Uluslararası Hukuk ve Güvenlik LLM'leri sunar. Tüm programların ücreti **£16,750**'dür.",
+        "law_masters_summary": "UWE Bristol, Global İşletme ve Finans Hukuku ile Uluslararası Hukuk ve Güvenlik LLM'leri sunar. 2026/27 yılı ücreti: **£17,000**.",
         "logo_url": "images/uwe_bristol.png"
     },
     {
@@ -518,7 +518,7 @@
         "lon": 0.0530,
         "city": "London (Docklands)",
         "website": "https://www.uel.ac.uk/postgraduate/courses/llm-general",
-        "law_masters_summary": "UEL, İşletme ve Finans Hukuku, İnsan Hakları Savunuculuğu ve FinTech Hukuku gibi çeşitli LLM'ler sunar. 2025-26 akademik yılı için program ücretleri **henüz açıklanmamıştır (TBC)**.",
+        "law_masters_summary": "UEL, İşletme ve Finans Hukuku, İnsan Hakları Savunuculuğu ve FinTech Hukuku gibi çeşitli LLM'ler sunar. 2026/27 yılı ücreti: **£16,740**.",
         "logo_url": "images/uel.png"
     },
     {
@@ -527,7 +527,7 @@
         "lon": -1.2151,
         "city": "Oxford",
         "website": "https://www.brookes.ac.uk/courses/postgraduate/llm",
-        "law_masters_summary": "Oxford Brookes Genel Hukuk LLM programı sunmaktadır. Programın ücreti **£17,750**'dür.",
+        "law_masters_summary": "Oxford Brookes Genel Hukuk LLM programı sunmaktadır. 2026/27 yılı ücreti: **£18,250**.",
         "logo_url": "images/oxford_brookes.png"
     },
     {
@@ -536,7 +536,7 @@
         "lon": -0.5471,
         "city": "Lincoln",
         "website": "https://www.lincoln.ac.uk/course/intlawml/",
-        "law_masters_summary": "Lincoln, Uluslararası Hukuk ve Uluslararası Kurumsal ve Ticaret Hukuku alanlarında LLM sunar. 2025-26 akademik yılı için ücretler **henüz açıklanmamıştır (TBC)**.",
+        "law_masters_summary": "Lincoln, Uluslararası Hukuk ve Uluslararası Kurumsal ve Ticaret Hukuku alanlarında LLM sunar. 2026/27 yılı ücreti: **£17,400**.",
         "logo_url": "images/lincoln.png"
     },
     {
@@ -545,7 +545,7 @@
         "lon": -2.9818,
         "city": "Liverpool",
         "website": "https://www.ljmu.ac.uk/study/courses/postgraduates/2025/35097-international-business-corporate--finance-law-llm",
-        "law_masters_summary": "LJMU, Uluslararası İşletme, Kurumsal ve Finans Hukuku LLM'leri sunar. Tüm LLM programlarının ücreti **£17,750**'dür.",
+        "law_masters_summary": "LJMU, Uluslararası İşletme, Kurumsal ve Finans Hukuku LLM'leri sunar. 2026/27 yılı ücreti: **£17,750**.",
         "logo_url": "images/ljmu.png"
     },
     {
@@ -554,7 +554,7 @@
         "lon": 0.1256,
         "city": "Cambridge",
         "website": "https://www.aru.ac.uk/study/postgraduate/international-business-and-commercial-law",
-        "law_masters_summary": "ARU, Uluslararası İşletme ve Ticaret Hukuku LLM programı sunmaktadır. Programın ücreti **£18,600**'dür.",
+        "law_masters_summary": "ARU, Uluslararası İşletme ve Ticaret Hukuku LLM programı sunmaktadır. 2026/27 yılı ücreti: **£19,500**.",
         "logo_url": "images/aru.png"
     },
     {
@@ -572,7 +572,7 @@
         "lon": -0.4789,
         "city": "London (Uxbridge)",
         "website": "https://www.brunel.ac.uk/study/courses/master-of-laws-llm-law",
-        "law_masters_summary": "Brunel, Fikri Mülkiyet Hukuku, Uluslararası Ticaret Hukuku, Yapay Zeka, Hukuk ve Teknoloji alanlarında LLM'ler sunar. Genel LLM **£23,000** iken, uzmanlık programları **£21,260**'dır.",
+        "law_masters_summary": "Brunel, Fikri Mülkiyet Hukuku, Uluslararası Ticaret Hukuku, Yapay Zeka, Hukuk ve Teknoloji alanlarında LLM'ler sunar. 2026/27 yılı ücreti: **£22,320**.",
         "logo_url": "images/brunel.png"
     },
     {
@@ -581,7 +581,7 @@
         "lon": -0.1378,
         "city": "Brighton",
         "website": "https://www.brighton.ac.uk/courses/study/international-law-and-social-justice-llm.aspx",
-        "law_masters_summary": "Brighton, Uluslararası Hukuk ve Sosyal Adalet LLM programı sunmaktadır. Programın ücreti **£15,900**'dür. (UK'deki uygun fiyatlı seçeneklerden biridir.)",
+        "law_masters_summary": "Brighton, Uluslararası Hukuk ve Sosyal Adalet LLM programı sunmaktadır. 2026/27 yılı ücreti: **£18,795**.",
         "logo_url": "images/brighton.png"
     },
     {
@@ -590,7 +590,7 @@
         "lon": -1.7770,
         "city": "Huddersfield",
         "website": "https://courses.hud.ac.uk/2025-26/full-time/postgraduate/international-business-law-llm",
-        "law_masters_summary": "Huddersfield, Uluslararası İşletme, Kurumsal ve Ticaret Hukuku alanlarında LLM sunar. Tüm programların ücreti **£17,600**'dür.",
+        "law_masters_summary": "Huddersfield, Uluslararası İşletme, Kurumsal ve Ticaret Hukuku alanlarında LLM sunar. 2026/27 yılı ücreti: **£18,700**.",
         "logo_url": "images/huddersfield.png"
     },
     {
@@ -599,7 +599,7 @@
         "lon": -1.5599,
         "city": "Leeds",
         "website": "https://www.leedsbeckett.ac.uk/courses/international-business-law-master-of-laws-llm",
-        "law_masters_summary": "Leeds Beckett, Uluslararası İş Hukuku LLM programı sunar. 2025-26 akademik yılı için ücretler **henüz açıklanmamıştır (TBC)**.",
+        "law_masters_summary": "Leeds Beckett, Uluslararası İş Hukuku LLM programı sunar. 2026/27 yılı ücreti: **£18,440**.",
         "logo_url": "images/leeds_beckett.png"
     },
     {
@@ -608,7 +608,7 @@
         "lon": -1.8906,
         "city": "Birmingham",
         "website": "https://www.bcu.ac.uk/courses/international-business-law-llm-2025-26",
-        "law_masters_summary": "BCU, Uluslararası İş Hukuku, Uluslararası Hukuk ve Uluslararası İnsan Hakları alanlarında LLM'ler sunar. LLM ücretleri **£18,600** ile **£19,020** arasında değişmektedir.",
+        "law_masters_summary": "BCU, Uluslararası İş Hukuku, Uluslararası Hukuk ve Uluslararası İnsan Hakları alanlarında LLM'ler sunar. 2026/27 yılı ücreti: **£21,965**.",
         "logo_url": "images/bcu.png"
     },
     {
@@ -617,7 +617,7 @@
         "lon": -0.0357,
         "city": "London (New Cross)",
         "website": "https://www.gold.ac.uk/pg/llm-law/",
-        "law_masters_summary": "Goldsmiths, Ceza Adaleti ve İnsan Hakları Hukuku LLM'leri sunar. Tüm LLM programlarının ücreti **£20,460**'dır.",
+        "law_masters_summary": "Goldsmiths, Ceza Adaleti ve İnsan Hakları Hukuku LLM'leri sunar. 2026/27 yılı ücreti: **£22,000**.",
         "logo_url": "images/goldsmiths.png"
     },
     {
@@ -626,7 +626,7 @@
         "lon": -0.1293,
         "city": "London (Bloomsbury)",
         "website": "https://www.bbk.ac.uk/courses/postgraduate/law-general",
-        "law_masters_summary": "Birkbeck, Ceza Hukuku, Çevre Hukuku, İnsan Hakları ve Hukuk ve Yeni Teknolojiler gibi alanlarda çeşitli LLM uzmanlıkları sunar. Çoğu programın ücreti **£22,410**'dur.",
+        "law_masters_summary": "Birkbeck, Ceza Hukuku, Çevre Hukuku, İnsan Hakları ve Hukuk ve Yeni Teknolojiler gibi alanlarda çeşitli LLM uzmanlıkları sunar. 2026/27 yılı ücreti: **£22,410**.",
         "logo_url": "images/birkbeck.png"
     },
     {
@@ -635,7 +635,7 @@
         "lon": -0.0076,
         "city": "London (Various)",
         "website": "https://www.law.ac.uk/study/postgraduate/law/llm-master-of-laws-general/",
-        "law_masters_summary": "ULaw, Şirket Hukuku, Uluslararası Ticaret Hukuku, İstihdam Hukuku, İnşaat Hukuku ve Deniz Hukuku dahil olmak üzere 15'ten fazla LLM uzmanlığı sunar. Tüm programların ücreti **£18,500**'dür.",
+        "law_masters_summary": "ULaw, Şirket Hukuku, Uluslararası Ticaret Hukuku, İstihdam Hukuku, İnşaat Hukuku ve Deniz Hukuku dahil olmak üzere 15'ten fazla LLM uzmanlığı sunar. 2026/27 yılı ücreti: **£18,250**.",
         "logo_url": "images/ulaw.png"
     },
     {
@@ -644,7 +644,16 @@
         "lon": -5.9301,
         "city": "Belfast",
         "website": "https://www.qub.ac.uk/courses/postgraduate-taught/law-technology-llm/",
-        "law_masters_summary": "Queen's University Belfast Law and Technology LLM programı, hukuk ve teknoloji alanlarında uzmanlaşan modern bir programdır. Program ücreti **£23,000**'dir.",
+        "law_masters_summary": "Queen's University Belfast Law and Technology LLM programı, hukuk ve teknoloji alanlarında uzmanlaşan modern bir programdır. 2026/27 yılı ücreti: **£23,000**.",
         "logo_url": "images/queens_belfast.png"
+    },
+    {
+        "name": "Durham University",
+        "lat": 54.7770,
+        "lon": -1.5790,
+        "city": "Durham",
+        "website": "https://www.durham.ac.uk/study/courses/master-of-laws-m1k116/",
+        "law_masters_summary": "Durham Üniversitesi (Russell Group), **Uluslararası Ticaret ve Ticari Hukuk, Fikri Mülkiyet, Kurumsal Hukuk, Avrupa Ticaret Hukuku** ve Tıp Hukuku gibi geniş bir yelpazede LLM sunar. 2026/27 yılı ücreti: **£30,500**.",
+        "logo_url": "images/durham.png"
     }
 ]
