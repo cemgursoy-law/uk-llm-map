@@ -116,3 +116,47 @@ fetch('data.json')
 
 // Harita zoom seviyesi değiştiğinde fonksiyonu çalıştır
 map.on('zoomend', updateMarkerSize);
+
+// --------------------------------------------------------------------------
+// ARAMA ÖZELLIKLERI
+// --------------------------------------------------------------------------
+const searchInput = document.getElementById('search-input');
+
+function filterUniversities(searchTerm) {
+    const term = searchTerm.toLowerCase().trim();
+    
+    // Eğer arama boşsa, tüm marker'ları göster
+    if (term === '') {
+        allMarkers.forEach(marker => {
+            // Marker'ı göster (hide sınıfını kaldır)
+            marker.setOpacity(1); 
+            marker.getElement().classList.remove('marker-hidden'); // CSS ile tam gizleme için sınıf kaldırma
+        });
+        return;
+    }
+    
+    // Her marker'ı kontrol et
+    allMarkers.forEach(marker => {
+        const uniName = marker.uni.name.toLowerCase();
+        const uniCity = marker.uni.city.toLowerCase();
+        
+        // Üniversite adı veya şehirde arama terimi varsa göster
+        if (uniName.includes(term) || uniCity.includes(term)) {
+            marker.setOpacity(1);
+            marker.getElement().classList.remove('marker-hidden');
+        } else {
+            // Tamamen gizle, sadece opaklık 0.2 yapma.
+            marker.setOpacity(0); // Pop-up görünürlüğünü de etkilemesi için
+            marker.getElement().classList.add('marker-hidden'); // CSS ile tam gizleme
+        }
+    });
+}
+
+// Arama input'u değiştiğinde filtrele
+searchInput.addEventListener('keyup', (e) => {
+    filterUniversities(e.target.value);
+});
+
+searchInput.addEventListener('change', (e) => {
+    filterUniversities(e.target.value);
+});
